@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1498026083 source:f:\projects\week6\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<vector>
+	<map>
+	<ctype.h>
+	<cstring>
+
